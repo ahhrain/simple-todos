@@ -1,0 +1,3 @@
+cd simple-todos
+meteor npm install
+meteor
